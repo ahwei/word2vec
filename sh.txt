@@ -1,0 +1,1 @@
+python word2vec_training.py ptt.txt ptt.text.model ptt.text.vector
